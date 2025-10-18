@@ -1,0 +1,10 @@
+# Contoh: Mengira kekerapan perkataan dalam teks Al-Quran
+from collections import Counter
+
+# Contoh teks (gantikan dengan data Al-Quran sebenar)
+teks_quran = "Bismillah Rahman Rahim Bismillah Rahman"
+
+# Mengira kekerapan perkataan
+perkataan = teks_quran.split()
+kekerapan = Counter(perkataan)
+print(kekerapan)  # Output: Counter({'Bismillah': 2, 'Rahman': 2, 'Rahim': 1})
