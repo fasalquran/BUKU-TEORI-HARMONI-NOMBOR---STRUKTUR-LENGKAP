@@ -3,6 +3,9 @@
 
 Selamat datang ke repositori rasmi untuk **Buku Teori Harmoni Nombor - Struktur Lengkap**, sebuah projek yang mengkaji pola numerikal dalam Al-Quran, teori munasabah (hubungan tematik antara ayat dan surah), dan aplikasinya dalam konteks kosmologi Islam dan sains moden.
 
+### Mengapa Perlu Menyertai Projek Ini?
+
+
 ## Penerangan Projek
 
 Projek ini bertujuan untuk:
