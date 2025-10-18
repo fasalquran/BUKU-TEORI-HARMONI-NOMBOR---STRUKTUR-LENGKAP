@@ -1,0 +1,67 @@
+Buku 1: Pengenalan kepada Harmoni Nombor dalam Al-Quran
+Matlamat
+Memperkenalkan konsep numerologi Al-Quran, termasuk jumlah ayat (6,236), jumlah surah (114), dan pola nombor asas yang menunjukkan keajaiban matematik dan rohani Al-Quran.
+Kandungan
+1. Sejarah Kajian Numerikal Al-Quran
+
+Kajian awal tentang pola nombor dalam Al-Quran, seperti karya Rashad Khalifa dan Al-Zarkasyi.
+Perkembangan pendekatan moden menggunakan alat teknologi seperti analisis data dan skrip Python.
+Kepentingan numerologi dalam memahami struktur dan keindahan Al-Quran.
+
+2. Contoh Pola Nombor Asas
+
+Jumlah Ayat dan Surah:
+Al-Quran mengandungi 6,236 ayat dan 114 surah, menunjukkan struktur yang teratur.
+Contoh: Surah Al-Fatihah mempunyai 7 ayat, mencerminkan kesempurnaan numerikal.
+
+
+Bilangan 19:
+Disebut dalam Surah Al-Muddathir (74:30): "Di atasnya ada sembilan belas (malaikat penjaga)."
+Pola 19 ditemui dalam pelbagai aspek, seperti jumlah huruf dalam Basmalah (19 huruf).
+
+
+Bilangan 7 dan Mathani:
+QS Al-Hijr (15:87) menyebut "sab‘an min al-mathani" (tujuh ayat yang diulang), merujuk kepada Surah Al-Fatihah.
+Ayat ini mengandungi 7 perkataan dalam teks Arab: "Wa laqad ātaynāka sab‘an mina al-mathānī wal-qur’āna al-‘aẓīm".
+Pola siklik nombor 7 ditemui dalam analisis nombor seperti 15873:
+( 15873 \times 7 = 111111 )
+( 111111 \times 7 = 777777 )
+Ini menunjukkan sifat siklik nombor 7, selari dengan konsep "mathani" (ulangan).
+
+
+
+
+
+3. Kaedah Analisis Nombor
+
+Kiraan Ayat dan Perkataan:
+Menggunakan teks digital Al-Quran (contohnya, dari Tanzil.net) untuk mengira jumlah ayat dan perkataan.
+Contoh: Analisis QS 15:87 menunjukkan 7 perkataan, menyokong konsep harmoni nombor 7.
+
+
+Kekerapan Perkataan:
+Perkataan utama seperti "Allah" (muncul 2,698 kali) dianalisis untuk pola numerikal.
+Skrip Python boleh digunakan untuk mengesahkan kekerapan ini.
+
+
+Pola Siklik:
+Analisis nombor seperti 15873 menunjukkan hubungan matematik dengan nombor 7, yang boleh divisualkan melalui carta atau graf.
+Contoh: Pola penggandaan 15873 → 111111 → 777777 mencerminkan struktur berulang yang terdapat dalam Al-Quran.
+
+
+
+4. Contoh Analisis Tambahan
+
+Surah Al-Fatihah: Jumlah 7 ayat dan kaitannya dengan konsep "mathani" dalam QS 15:87.
+Pola Siklik Nombor 7:
+Nombor 15873, apabila didarab dengan 7, menghasilkan 111111, dan seterusnya 777777, menunjukkan sifat siklik yang signifikan.
+Ini boleh dihubungkan dengan tema kosmologi, seperti tujuh petala langit (QS Al-Mulk 67:3).
+
+
+Visualisasi Data:
+Carta bar boleh digunakan untuk memaparkan kekerapan perkataan atau pola nombor seperti 15873, 111111, dan 777777.
+
+
+
+Status
+Dalam peringkat perancangan, dengan kemas kini terkini termasuk analisis QS 15:87 dan pola siklik nombor 7 (18 Oktober 2025).
