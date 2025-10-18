@@ -8,6 +8,8 @@ Selamat datang ke repositori rasmi untuk **Buku Teori Harmoni Nombor - Struktur 
 
 ### Mengapa Perlu Menyertai Projek Ini?
 
+### Senarai Tambahan Video Projek Berkaitan Harmoni Nombor Al-Quran
+
 
 ## Penerangan Projek
 
